@@ -1,5 +1,5 @@
 html {
-    background-color: #d2afdf;
+    background-color: #efdcf6;
 }
 
 body {
@@ -10,7 +10,31 @@ h1 {
     margin: 0;
 }
 
+.viburnums-h2{
+    border-bottom: 10px dotted #b8dcfd;
+    padding: 10px;
+}
+
 .main-header{
     background-color: #b757ca;
     padding: 30px;
 }
+
+.viburnums-header{
+    background-color: #b757ca;
+    color: white;
+    padding: 30px;
+}
+
+.varburnums-main {
+    background-color: #d7abd7;
+    padding: 30px;
+    margin-bottom: 10px;
+     margin-top: 10px;
+}
+
+.viburnums-footer{
+    background-color: #f5a8e5;
+    padding: 30px;
+}
+
